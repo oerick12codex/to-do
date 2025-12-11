@@ -1,12 +1,3 @@
-[DOCUMENTATION.md](https://github.com/user-attachments/files/24089246/DOCUMENTATION.md)[Uploading D# Documentação do diretório src (package app)
-
-Repositório: oerick12codex/to-do  
-Arquivos analisados (package app): Main.java, Tarefa.java, TaskManager.java
-
-A seguir documentei cada arquivo com foco na lógica: classes, métodos, estruturas de dados, complexidade, fluxos de uso, casos de borda e sugestões de melhoria.
-
----
-
 ## src/app/Main.java
 
 ### Objetivo geral
